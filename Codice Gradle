@@ -1,4 +1,5 @@
-
-
 implementation 'com.jjoe64:graphview:4.2.2'
 
+Qui dice come fare
+http://www.android-graphview.org/download-getting-started/
+Comunque bisogna aggiungere nel file build.file (app), tra le dipendeze, la roba alla riga 1
